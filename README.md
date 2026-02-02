@@ -18,12 +18,7 @@ School_Projects/
 
 ## ⚙️ Usage
 
-1. Navigate to the project folder:
-   ```bash
-   cd <FOLDER_NAME>
-   ```
-
-2. Run:
+1. Run:
    ```bash
    <FILENAME>.html
    # or
