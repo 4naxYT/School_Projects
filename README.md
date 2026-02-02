@@ -20,14 +20,14 @@ School_Projects/
 
 1. Navigate to the project folder:
    ```bash
-   cd [FOLDER_NAME]
+   cd <FOLDER_NAME>
    ```
 
 2. Run:
    ```bash
-   [FILENAME].html
+   <FILENAME>.html
    # or
-   [FILE_NAME].[FILE_EXTENTION]
+   <FILENAME>.<EXTENSION>
    ```
 
 ---
@@ -42,11 +42,11 @@ School_Projects/
 ---
 
 ## ⚠️ Academic Integrity
- 
-If you're a student:
-- You may **view** this Repository for reference
-- You may **not** copy, plagiarize, or submit it as your own work
-- Understand the code before using any ideas
+
+If you are a **student**:
+- ✅ You may **view** this repository for *learning or reference*
+- ❌ You may not **copy**, **plagiarize**, or submit any part of it as your **own** work
+- 📘 Always understand the logic before reusing **ideas**
 
 ---
 
@@ -57,8 +57,10 @@ This repository is documentation, not a help desk.
 
 ---
 
-**Last Updated**: $(date +%Y-%m-%d)  
-**Status**: Archival and ongoing
+## 📌 Status
+
+- Purpose: Archival & documentation
+- Maintenance: Ongoing
 
 ---
 > *Use The Projects **Ethically**, **Never Plagiarise**, Or **Steal** Others' Content, And Properly **Credit** Them*
