@@ -59,4 +59,6 @@ This repository is documentation, not a help desk.
 
 ---
 > *Use The Projects **Ethically**, **Never Plagiarise**, Or **Steal** Others' Content, And Properly **Credit** Them*
+
+> By `Prianshu .B`, **Narayana** Rishra 9A (as of `2/5/26` d/m/y)
 ---
